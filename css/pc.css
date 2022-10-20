@@ -1,0 +1,33 @@
+/* pc.css */
+body {
+  background: pink;
+}
+
+header {
+  background: #000;
+  /* 최대크기 */
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+header nav {
+  padding: 20px;
+  text-align: center;
+}
+
+header nav a {
+  color: #fff;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+#main-title {
+  background: #999;
+  height: 400px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 50px;
+  background-image: url("../imges/title-bg.jpg");
+  background-size: cover;
+  color: #fff;
+}
